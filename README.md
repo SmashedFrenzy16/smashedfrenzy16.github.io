@@ -1,5 +1,6 @@
-## SmashedFrenzy16
+## Welcome
 
+Welcome to my open-source webpage
 
 <!--You can use the [editor on GitHub](https://github.com/SmashedFrenzy16/smashedfrenzy16.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
