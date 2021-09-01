@@ -2,6 +2,12 @@
 
 Welcome to my open-source webpage. It is place of wonder, a space that is filled with enticing projects, by me and some other people that I have collaborated with! Take a look at my [GitHub profile](https://github.com/SmashedFrenzy16) for all of my projects.
 
+### Major Projects
+
+- [Game_File_Hub](https://smashedfrenzy16.github.io/Game_File_Hub)
+- [Donut Emulator](https://smashedfrenzy16.github.io/donut-emulator)
+- [PytoolSuite]()
+
 <!--You can use the [editor on GitHub](https://github.com/SmashedFrenzy16/smashedfrenzy16.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
