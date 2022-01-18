@@ -16,6 +16,10 @@ I currently am working very hard towards becoming a useful and great developer t
 
 It was a great time having to code open source projects on GitHub. t was a very fruitful year and I commited more regularly that in 2020. Collaboration was started last year. I have to thank all of those who have chosen to follow me and fork my projects, it is much appreciated! With the rise of 2022, I am hopefully looking to commit even more and get more followers, with more major projects in the mix as well!
 
+### Contact or Support
+
+To get in touch please go to the ["Contact Us" page on our website.](https://netfruittechnologies.wordpress.com/contact-us/)
+
 <!--You can use the [editor on GitHub](https://github.com/SmashedFrenzy16/smashedfrenzy16.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
