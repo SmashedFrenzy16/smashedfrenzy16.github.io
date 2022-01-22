@@ -7,6 +7,7 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - [Game_File_Hub](https://smashedfrenzy16.github.io/Game_File_Hub)
 - [Donut Emulator](https://smashedfrenzy16.github.io/donut-emulator)
 - [PytoolSuite](https://smashedfrenzy16.github.io/pytoolsuite)
+- [InvenMania](https://github.com/NetFruit-Technologies/InvenMania)
 
 ### What I want to accomplish in the future
 
