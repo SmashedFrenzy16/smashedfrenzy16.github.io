@@ -34,6 +34,16 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - Date and Time (HTML and JavaScript) | 2022
 - Blender Addon: Cursor To Center (Python) | 2022
 
+### My fields of expertise
+
+- I can program in Python at a very early intermediate stage.
+- I am a beginner in C++
+- I like to tinker in other languages
+- I mostly develop tools and interfaces, as well as a few games.
+- I can do Graphic Designing and Photography at a beginner's level
+- I can CAD at an intermidiate level
+- I can use Blender at a beginner's level
+
 ### What I want to accomplish in the future
 
 I currently am working very hard towards becoming a useful and great developer to improve the lives of others. I am inspired by my friends, the general public and major tech companies to create all of my greatest works, such as Donut Emulator, PytoolSuite, Game_File_Hub and InvenMania.
