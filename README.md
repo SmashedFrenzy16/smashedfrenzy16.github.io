@@ -30,7 +30,7 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - Advanced Terminal Calculator (C++) | 2022
 - File Creator (Java) | 2022
 - COVID 19 Notification System (Python) | 2022
-- Command Line Hanoi Tower (Python)
+- Command Line Hanoi Tower (Python) | 2022
 - Date and Time (HTML and JavaScript) | 2022
 - Blender Addon: Cursor To Center (Python) | 2022
 
