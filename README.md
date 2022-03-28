@@ -9,6 +9,31 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - [PytoolSuite](https://smashedfrenzy16.github.io/pytoolsuite) | Initial Release Year: 2021
 - [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) | Initial Release Year: 2022
 
+### Personal Major Projects (by SmashedFrenzy16 and SmashedFrenzy16 Studios)
+
+- Lyrics Generator (Python) | 2021
+- Email Slicer (Python) | 2021
+- Adventure Game (Python) | 2021
+- Hangman (Python) | 2021
+- Turtle Draw (Python) | 2020/2021
+- Graphical Form (Python) | 2021
+- Rock Paper Scissors (Python) | 2021
+- Rock Paper Scissors Lizard Spock (Python) | 2021
+- Fahrenheit To Celcius (Python) | 2021
+- Quiz (Python) | 2021
+- Countdown Clock (Python) | 2021
+- Christmas Card (Python) | 2021
+- Snowman (Blender) | 2021
+- Christmas Tree (Python) | 2021
+- Happy New Year 2022 (Python) | 2022
+- Mother's Day 2022 (Python) | 2022
+- Advanced Terminal Calculator (C++) | 2022
+- File Creator (Java) | 2022
+- COVID 19 Notification System (Python) | 2022
+- Command Line Hanoi Tower (Python)
+- Date and Time (HTML and JavaScript) | 2022
+- Blender Addon: Cursor To Center (Python) | 2022
+
 ### What I want to accomplish in the future
 
 I currently am working very hard towards becoming a useful and great developer to improve the lives of others. I am inspired by my friends, the general public and major tech companies to create all of my greatest works, such as Donut Emulator, PytoolSuite, Game_File_Hub and InvenMania.
