@@ -25,7 +25,7 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - Christmas Card (Python) | 2021
 - Snowman (Blender) | 2021
 - Christmas Tree (Python) | 2021
-- Happy New Year 2022 (Python) | 2022
+- Happy New Year 2022: New Year's Fireworks (Python) | 2022
 - Mother's Day 2022 (Python) | 2022
 - Advanced Terminal Calculator (C++) | 2022
 - File Creator (Java) | 2022
