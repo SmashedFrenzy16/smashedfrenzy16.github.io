@@ -33,10 +33,11 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - Command Line Hanoi Tower (Python) | 2022
 - Date and Time (HTML and JavaScript) | 2022
 - Blender Addon: Cursor To Center (Python) | 2022
+- Password Generator | 2022
 
 ### My fields of expertise
 
-- I can program in Python at a very early intermediate stage.
+- I am an early intermediate in Python
 - I am a beginner in C++
 - I like to tinker in other languages
 - I mostly develop tools and interfaces, as well as a few games.
