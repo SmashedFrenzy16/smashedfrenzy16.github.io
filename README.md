@@ -15,12 +15,10 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - Email Slicer (Python) | 2021
 - Adventure Game (Python) | 2021
 - Hangman (Python) | 2021
-- Turtle Draw (Python) | 2020/2021
 - Graphical Form (Python) | 2021
 - Rock Paper Scissors (Python) | 2021
 - Rock Paper Scissors Lizard Spock (Python) | 2021
 - Fahrenheit To Celcius (Python) | 2021
-- Quiz (Python) | 2021
 - Countdown Clock (Python) | 2021
 - Christmas Card (Python) | 2021
 - Snowman (Blender) | 2021
@@ -28,21 +26,20 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - Happy New Year 2022: New Year's Fireworks (Python) | 2022
 - Mother's Day 2022 (Python) | 2022
 - Advanced Terminal Calculator (C++) | 2022
-- File Creator (Java) | 2022
 - COVID 19 Notification System (Python) | 2022
-- Command Line Hanoi Tower (Python) | 2022
-- Date and Time (HTML and JavaScript) | 2022
 - Blender Addon: Cursor To Center (Python) | 2022
-- Password Generator | 2022
+- Password Generator (Python) | 2022
+- Geeky Paint Application (Python) | 2022
+- Web Browser App (MIT App Inventor) | 2022
 
 ### My fields of expertise
 
-- I am an early intermediate in Python
+- I am an intermediate in Python
 - I am a beginner in C++
 - I like to tinker in other languages
 - I mostly develop tools and interfaces, as well as a few games.
 - I can do Graphic Designing and Photography at a beginner's level
-- I can CAD at an intermidiate level
+- I can CAD at a very early intermidiate level
 - I can use Blender at a beginner's level
 
 ### What I want to accomplish in the future
