@@ -34,7 +34,7 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 
 ### My fields of expertise
 
-- I am an intermediate in Python
+- I am an early advanced developer in Python
 - I am a beginner in C++
 - I like to tinker in other languages
 - I mostly develop tools and interfaces, as well as a few games.
