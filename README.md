@@ -39,7 +39,7 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - I like to tinker in other languages
 - I mostly develop tools and interfaces, as well as a few games.
 - I can do Graphic Designing and Photography at a beginner's level
-- I can CAD at an intermidiate level and am going to expand my skills in this category in the coming months.
+- I can CAD at an early intermidiate level and am going to expand my skills in this category in the coming months.
 - I can use Blender at a beginner's level
 
 ### What I want to accomplish in the future
