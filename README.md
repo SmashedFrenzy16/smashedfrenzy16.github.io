@@ -1,7 +1,5 @@
 ## Welcome
 
-# ⬛ Queen Elizabeth II, The Queen Of The United Kingdom Of Great Britain And Northen Ireland Is Dead. Long Live The King! ⬛
-
 Welcome to my open-source webpage. It is place of wonder, a space that is filled with enticing projects, by me and some other people that I have collaborated with! Take a look at my [GitHub profile](https://github.com/SmashedFrenzy16) for all of my projects.
 
 ### Major Projects
