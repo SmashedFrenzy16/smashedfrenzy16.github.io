@@ -48,7 +48,7 @@ I currently am working very hard towards becoming a useful and great developer t
 
 ### Overview of the last year (2021)
 
-It was a great time having to code open source projects on GitHub. t was a very fruitful year and I commited more regularly that in 2020. Collaboration was started last year. I have to thank all of those who have chosen to follow me and fork my projects, it is much appreciated! With the rise of 2022, I am hopefully looking to commit even more and get more followers, with more major projects in the mix as well!
+It was a great time having to code open source projects on GitHub. It was a very fruitful year and I commited more regularly that in 2020. Collaboration was started last year. I have to thank all of those who have chosen to follow me and fork my projects, it is much appreciated! With the rise of 2022, I am hopefully looking to commit even more and get more followers, with more major projects in the mix as well!
 
 ### Contact or Support
 
