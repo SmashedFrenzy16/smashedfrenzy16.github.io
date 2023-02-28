@@ -44,6 +44,8 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - I can CAD at an early intermidiate level and am going to expand my skills in this category in the coming months.
 - I can use Blender at a beginner's level
 
+### Lastest Tweets By @SmashedFrenzy16
+
 ### What I want to accomplish in the future
 
 I currently am working very hard towards becoming a useful and great developer to improve the lives of others. I am inspired by my friends, the general public and major tech companies to create all of my greatest works, such as Donut Emulator, PytoolSuite, Game_File_Hub and InvenMania.
