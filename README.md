@@ -1,4 +1,5 @@
 [![Google+](https://aleen42.github.io/badges/src/google_plus.svg)](https://plus.google.com/+SmashedFrenzy16)
+[![GitHub Followers](https://img.shields.io/github/followers/SmashedFrenzy16?label=Follow&style=social)](https://github.com/SmashedFrenzy16)
 
 ## Welcome
 
