@@ -62,7 +62,7 @@ I currently am working very hard towards becoming a useful and great developer t
 
 ### Overview of the last year (2022)
 
-2022 was the year where I made more bigger projects to further help out th GitHub community. I committed more frequently to GitHub, and explored many other aspects deeper such as Pull Requests, Issues, Gists and many more.
+2022 was the year where I made more bigger projects to further help out th GitHub community. I committed more frequently to GitHub, and explored many other aspects deeper such as Pull Requests, Issues, Gists and many more. I also got to 127 followers by the end of the year, as well as a lot of stars and forks!
 
 ### Contact or Support
 
