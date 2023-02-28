@@ -4,7 +4,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 
-https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=SmashedFrenzy16
+![SmashedFrenzy16 Summary Overview](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=SmashedFrenzy16)
 
 ## Welcome
 
