@@ -62,7 +62,7 @@ I currently am working very hard towards becoming a useful and great developer t
 
 ### Overview of the last year (2022)
 
-2022 was the year where I made more bigger projects to further help out th GitHub community. I committed more frequently to GitHub, and explored many other aspects deeper such as Pull Requests, Issues, Gists and many more. I also got to 127 followers by the end of the year, as well as a lot of stars and forks!
+2022 was the year where I made more bigger projects to further help out th GitHub community. I committed more frequently to GitHub, and explored many other aspects deeper such as Pull Requests, Issues, Gists and many more. I also got to 127 followers by the end of the year, as well as a lot of stars and forks! So please continue supporting me by following me, as well as starring and forking my repos! 2023 will be jam packed with more projects and languages, and a huger leap from SmashedFrenzy16 Studios and NetFruit Technologies.
 
 ### Contact or Support
 
