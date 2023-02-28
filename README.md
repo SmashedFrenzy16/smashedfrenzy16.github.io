@@ -1,3 +1,5 @@
+[![Google+](https://aleen42.github.io/badges/src/google_plus.svg)](https://plus.google.com/+SmashedFrenzy16)
+
 ## Welcome
 
 Welcome to my open-source webpage. It is place of wonder, a space that is filled with enticing projects, by me and some other people that I have collaborated with! Take a look at my [GitHub profile](https://github.com/SmashedFrenzy16) for all of my projects.
