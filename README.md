@@ -2,6 +2,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/SmashedFrenzy16?label=Follow&style=social)](https://github.com/SmashedFrenzy16)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/SmashedFrenzy16.svg?style=social&label=Follow%20%40SmashedFrenzy16)](https://twitter.com/SmashedFrenzy16)
 ![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
+[![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 
 ## Welcome
 
