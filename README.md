@@ -34,8 +34,8 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 
 ### My fields of expertise
 
-- I am an early advanced developer in Python
-- I am a beginner in C++
+- I can code in Python
+- I can code in C++
 - I like to tinker in other languages
 - I mostly develop tools and interfaces, as well as a few games.
 - I can do Graphic Designing and Photography at a beginner's level
@@ -46,7 +46,7 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 
 I currently am working very hard towards becoming a useful and great developer to improve the lives of others. I am inspired by my friends, the general public and major tech companies to create all of my greatest works, such as Donut Emulator, PytoolSuite, Game_File_Hub and InvenMania.
 
-### Overview of the last year (2021)
+### Overview of the last year (2022)
 
 It was a great time having to code open source projects on GitHub. It was a very fruitful year and I commited more regularly that in 2020. Collaboration was started last year. I have to thank all of those who have chosen to follow me and fork my projects, it is much appreciated! With the rise of 2022, I am hopefully looking to commit even more and get more followers, with more major projects in the mix as well!
 
