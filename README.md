@@ -46,6 +46,8 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 
 ### Lastest Tweets By @SmashedFrenzy16
 
+<p><a href="https://twitter.com/SmashedFrenzy16"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=SmashedFrenzy16&amp;layout=wide" alt="github-readme-twitter"></a></p>
+
 ### What I want to accomplish in the future
 
 I currently am working very hard towards becoming a useful and great developer to improve the lives of others. I am inspired by my friends, the general public and major tech companies to create all of my greatest works, such as Donut Emulator, PytoolSuite, Game_File_Hub and InvenMania.
