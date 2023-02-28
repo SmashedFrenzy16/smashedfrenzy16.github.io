@@ -4,6 +4,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=SmashedFrenzy16
+
 ## Welcome
 
 Welcome to my open-source webpage. It is place of wonder, a space that is filled with enticing projects, by me and some other people that I have collaborated with! Take a look at my [GitHub profile](https://github.com/SmashedFrenzy16) for all of my projects.
