@@ -31,6 +31,8 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - Password Generator (Python) | 2022
 - Geeky Paint Application (Python) | 2022
 - Web Browser App (MIT App Inventor) | 2022
+- Unknown Language Detector | 2023
+- Terrain Generator | 2023
 
 ### My fields of expertise
 
