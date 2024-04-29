@@ -57,10 +57,6 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 
 I currently am working very hard towards becoming a useful and great developer to improve the lives of others. I am inspired by my friends, the general public and major tech companies to create all of my greatest works, such as Donut Emulator, PytoolSuite, Game_File_Hub and InvenMania.
 
-### Overview of the last year (2022)
-
-2022 was the year where I made more bigger projects to further help out th GitHub community. I committed more frequently to GitHub, and explored many other aspects deeper such as Pull Requests, Issues, Gists and many more. I also got to 127 followers by the end of the year, as well as a lot of stars and forks! So please continue supporting me by [following me](https://github.com/SmashedFrenzy16), as well as starring and forking my repos! 2023 will be jam packed with more projects and languages, and a huger leap from SmashedFrenzy16 Studios and NetFruit Technologies.
-
 <h3>Most Used Languages (by number of commits):</h3>
 <p align="center">
 	<a href="https://profile.codersrank.io/user/SmashedFrenzy16#Tech%20Skills">
