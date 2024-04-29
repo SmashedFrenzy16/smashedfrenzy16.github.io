@@ -53,12 +53,6 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - I can CAD at an early intermidiate level and am going to expand my skills in this category in the coming months.
 - I can use Blender at a beginner's level
 
-- <h3>Most Used Languages (by number of commits):</h3>
-<p align="center">
-	<a href="https://profile.codersrank.io/user/SmashedFrenzy16#Tech%20Skills">
-		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SmashedFrenzy16&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,R,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
-	</a>
-
 ### What I want to accomplish in the future
 
 I currently am working very hard towards becoming a useful and great developer to improve the lives of others. I am inspired by my friends, the general public and major tech companies to create all of my greatest works, such as Donut Emulator, PytoolSuite, Game_File_Hub and InvenMania.
@@ -66,6 +60,13 @@ I currently am working very hard towards becoming a useful and great developer t
 ### Overview of the last year (2022)
 
 2022 was the year where I made more bigger projects to further help out th GitHub community. I committed more frequently to GitHub, and explored many other aspects deeper such as Pull Requests, Issues, Gists and many more. I also got to 127 followers by the end of the year, as well as a lot of stars and forks! So please continue supporting me by [following me](https://github.com/SmashedFrenzy16), as well as starring and forking my repos! 2023 will be jam packed with more projects and languages, and a huger leap from SmashedFrenzy16 Studios and NetFruit Technologies.
+
+<h3>Most Used Languages (by number of commits):</h3>
+<p align="center">
+	<a href="https://profile.codersrank.io/user/SmashedFrenzy16#Tech%20Skills">
+		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SmashedFrenzy16&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,R,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
+	</a>
+</p>
 
 ### Contact or Support
 
@@ -81,7 +82,7 @@ You are visitor number:
 
 <div align="center">
   
-<sup>Best viewed with:</sup><br />[![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
+<sup>Can be viewed with:</sup><br />[![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
 
 <sup>Can no longer be viewed with:</sup><br />[![Netscape Navigator](https://user-images.githubusercontent.com/68993968/113916671-27b78200-97d8-11eb-9496-1c45ce25568e.gif)](https://www.netscape.com)
 </div>
