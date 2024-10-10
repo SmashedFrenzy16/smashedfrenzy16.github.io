@@ -18,23 +18,18 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - [PytoolSuite](https://smashedfrenzy16.github.io/pytoolsuite) | Initial Release Year: 2021
 - [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) | Initial Release Year: 2022
 
-### Personal Major Projects (by SmashedFrenzy16 and SmashedFrenzy16 Studios)
+### Personal Projects (by SmashedFrenzy16 and SmashedFrenzy16 Studios)
 
 - Lyrics Generator (Python) | 2021
 - Email Slicer (Python) | 2021
 - Adventure Game (Python) | 2021
-- Hangman (Python) | 2021
-- Graphical Form (Python) | 2021
 - Rock Paper Scissors (Python) | 2021
 - Rock Paper Scissors Lizard Spock (Python) | 2021
 - Fahrenheit To Celcius (Python) | 2021
-- Countdown Clock (Python) | 2021
-- Christmas Card (Python) | 2021
 - Snowman (Blender) | 2021
 - Christmas Tree (Python) | 2021
 - Happy New Year 2022: New Year's Fireworks (Python) | 2022
 - Mother's Day 2022 (Python) | 2022
-- Advanced Terminal Calculator (C++) | 2022
 - COVID 19 Notification System (Python) | 2022
 - Blender Addon: Cursor To Center (Python) | 2022
 - Password Generator (Python) | 2022
