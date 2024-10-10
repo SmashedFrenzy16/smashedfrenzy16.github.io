@@ -11,14 +11,15 @@
 
 Welcome to my open-source webpage. It is place of wonder, a space that is filled with enticing projects, by me and some other people that I have collaborated with! Take a look at my [GitHub profile](https://github.com/SmashedFrenzy16) for all of my projects.
 
-### Major Projects
+### Major Projects (by SmashedFrenzy16 and NetFruit Technologies)
 
 - [Game_File_Hub](https://smashedfrenzy16.github.io/Game_File_Hub) | Initial Release Year: 2020
 - [Donut Emulator](https://smashedfrenzy16.github.io/donut-emulator) | Initial Release Year: 2021
 - [PytoolSuite](https://smashedfrenzy16.github.io/pytoolsuite) | Initial Release Year: 2021
 - [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) | Initial Release Year: 2022
+- 
 
-### Personal Projects (by SmashedFrenzy16 and SmashedFrenzy16 Studios)
+### Other Projects (by SmashedFrenzy16 and SmashedFrenzy16 Studios only)
 
 - Lyrics Generator (Python) | 2021
 - Email Slicer (Python) | 2021
