@@ -9,7 +9,7 @@
 
 ## Welcome
 
-Welcome to my open-source webpage. It is place of wonder, a space that is filled with enticing projects, by me and some other people that I have collaborated with! Take a look at my [GitHub profile](https://github.com/SmashedFrenzy16) for all of my projects.
+Welcome to my personal website. Take a look at my [GitHub profile](https://github.com/SmashedFrenzy16) for all of my projects.
 
 ### Major Projects (by SmashedFrenzy16 and NetFruit Technologies)
 
@@ -17,7 +17,6 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 - [Donut Emulator](https://smashedfrenzy16.github.io/donut-emulator) | Initial Release Year: 2021
 - [PytoolSuite](https://smashedfrenzy16.github.io/pytoolsuite) | Initial Release Year: 2021
 - [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) | Initial Release Year: 2022
-- 
 
 ### Other Projects (by SmashedFrenzy16 and SmashedFrenzy16 Studios only)
 
@@ -42,10 +41,8 @@ Welcome to my open-source webpage. It is place of wonder, a space that is filled
 ### My fields of expertise
 
 - I can code in Python, C++ and C#
-- I like to tinker in other languages
-- I mostly develop tools and interfaces, as well as a few games.
 - I can do Graphic Designing and Photography at a beginner's level
-- I can do CAD at an early intermidiate level and am going to expand my skills in this category in the coming months.
+- I can do CAD at an early intermidiate level
 - I can use Blender at a beginner's level
 
 ### What I want to accomplish in the future
